@@ -28,7 +28,7 @@ Icons & UI: Vector Icons and Custom Styled Components
 Clone the repository:
 
 Bash
-git clone https://github.com/your-username/vehicle-inventory-app.git
+git clone https://github.com/muhammad-kamal-27/vehicle-inventory-app.git
 
 Install dependencies:
 
