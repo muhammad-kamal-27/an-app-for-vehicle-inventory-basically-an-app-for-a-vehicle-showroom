@@ -23,3 +23,21 @@ Tooling: Expo
 State Management: React Hooks (useState, useEffect)
 
 Icons & UI: Vector Icons and Custom Styled Components
+
+⚙️ Installation & Setup
+Clone the repository:
+
+Bash
+git clone https://github.com/your-username/vehicle-inventory-app.git
+
+Install dependencies:
+
+Bash
+npm install
+
+Start the development server:
+
+Bash
+npx expo start
+
+Run on your device: Scan the QR code using the Expo Go app.
